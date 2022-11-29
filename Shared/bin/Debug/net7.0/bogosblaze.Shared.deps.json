@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "bogosblaze.Shared/1.0.0": {
+        "runtime": {
+          "bogosblaze.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bogosblaze.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bogosblaze.Server.props" />
+</Project>
